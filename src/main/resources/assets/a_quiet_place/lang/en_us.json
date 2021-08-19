@@ -1,0 +1,9 @@
+{
+  "entity.a_quiet_place.death_angel" : "Death Angel",
+
+  "block.a_quiet_place.meteorite" : "Meteorite",
+
+  "item.a_quiet_place.death_angel_spawn_egg" : "Death Angel Spawn Egg",
+
+  "generator.a_quiet_place.a_quiet_place" : "A Quiet Place"
+}
